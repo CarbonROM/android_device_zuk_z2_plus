@@ -15,3 +15,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/carbon_z2_plus.mk
+
+COMMON_LUNCH_CHOICES := \
+    carbon_z2_plus-userdebug \
+    carbon_z2_plus-eng
